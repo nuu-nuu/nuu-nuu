@@ -4,9 +4,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/typescript-4338ca?style=flat-square&logo=typescript&logoColor=white&labelColor=0b0a1f" />
-  <img src="https://img.shields.io/badge/docker-4338ca?style=flat-square&logo=docker&logoColor=white&labelColor=0b0a1f" />
-  <img src="https://img.shields.io/badge/git-4338ca?style=flat-square&logo=git&logoColor=white&labelColor=0b0a1f" />
   <img src="https://img.shields.io/badge/os-arch_linux-4338ca?style=flat-square&logo=arch-linux&logoColor=white&labelColor=0b0a1f" />
+  <img src="https://img.shields.io/badge/neovim-4338ca?style=flat-square&logo=neovim&logoColor=white&labelColor=0b0a1f" />
 </p>
 
 <p align="center">
